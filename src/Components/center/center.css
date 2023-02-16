@@ -1,0 +1,8 @@
+.monthly-payment {
+  display: flex;
+  gap: 1rem;
+}
+
+.monthly-payment > input {
+  margin-top: 1rem;
+}
